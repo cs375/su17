@@ -20,7 +20,7 @@ td {
     background-color: #ECECEC;
 }
 .guest-lecture {
-    background-color: rgba(100, 170, 100, 1.0);
+    background-color: rgba(102, 178, 255, 1.0);
 }
 .guest-lecture a {
     color: #ECECEC;
@@ -28,4 +28,3 @@ td {
 .guest-lecture a:hover {
     color: white;
 }
-
